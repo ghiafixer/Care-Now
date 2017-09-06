@@ -21,7 +21,7 @@ module.exports = {
             "HELP_ASK": "Your Care Now Guide is an Innovation Engine Prototype, inspired by Jobs to be done, " +
                 "and creating the next generation of health consumer solutions. If you want to know more about " +
                 "Innovation Engine or Jobs to be done, listen to their podcast. I hear it is quite informative. " +
-                "Let's begin. Why do you need a prescription?",
+                "You can say: get me a refill, lab, wellness exam or a prescription. You can also say, recommend a provider. What would you like to do?",
             "HELP_REPROMPT": "Tell me, why do you need a prescription?",
 
             "UNHANDLED_ASK": "Sorry, I didn't understand what you said, please try again.",
