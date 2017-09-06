@@ -1,0 +1,21 @@
+{
+  "name": "care-now-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk": "^2.1.4",
+    "run-sequence": "^1.0.2",
+    "gulp": "^3.9.0",
+    "gulp-foreach": "^0.1.0",
+    "gulp-run": "^1.6.11",
+    "gulp-watch": "^4.3.5",
+    "gulp-zip": "^3.0.2"
+  }
+}

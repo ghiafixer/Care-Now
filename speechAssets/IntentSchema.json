@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "SuggestionIntent",
+      "slots": [
+        {
+          "name": "suggestion",
+          "type": "LIST_OF_SUGGESTIONS"
+        }
+      ]
+    },
+    {
+      "intent": "ReasonIntent"
+    },
+    {
+      "intent": "CostIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

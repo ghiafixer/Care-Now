@@ -1,0 +1,24 @@
+{
+  "name": "care-now-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://omenocal@bitbucket.org/omenocal/care-now-skill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://omenocal@bitbucket.org/omenocal/care-now-skill.git/issues"
+  },
+  "homepage": "https://omenocal@bitbucket.org/omenocal/care-now-skill.git"
+}
